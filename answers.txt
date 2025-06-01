@@ -1,4 +1,4 @@
-Вопрос: Что можно настроить с помощью этих команд S1(config)# line vty 0 15 S1(config-line)# password cisco S1(config-line)# login S1(config-line)# end?
+Вопрос: Что можно настроить с помощью этих команд: S1(config)# line vty 0 15 S1(config-line)# password cisco S1(config-line)# login S1(config-line)# end
 Ответ: TACACS#
 
 
