@@ -571,7 +571,7 @@
 
 
 Вопрос: Не является средством разработки под Android:
-Ответ: ==== Device Monitor. 
+Ответ: ====Device Monitor. 
 
 
 Вопрос: С какой целью был создан Open Handset Alliance?
